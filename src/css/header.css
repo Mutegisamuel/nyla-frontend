@@ -1,0 +1,17 @@
+.navbar{
+    padding: 20px 150px;
+}
+
+@media screen and (max-width: 1024px) {
+    .navbar{
+        padding: 20px 50px;
+    }
+}
+
+@media screen and (max-width:  768px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
