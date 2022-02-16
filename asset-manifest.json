@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//Mutegisamuel.github.io/nyla-frontend/static/css/main.edf093b5.css",
+    "main.js": "//Mutegisamuel.github.io/nyla-frontend/static/js/main.d4866cf4.js",
+    "static/js/787.ab85aa6e.chunk.js": "//Mutegisamuel.github.io/nyla-frontend/static/js/787.ab85aa6e.chunk.js",
+    "static/media/logo.svg": "//Mutegisamuel.github.io/nyla-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//Mutegisamuel.github.io/nyla-frontend/index.html",
+    "main.edf093b5.css.map": "//Mutegisamuel.github.io/nyla-frontend/static/css/main.edf093b5.css.map",
+    "main.d4866cf4.js.map": "//Mutegisamuel.github.io/nyla-frontend/static/js/main.d4866cf4.js.map",
+    "787.ab85aa6e.chunk.js.map": "//Mutegisamuel.github.io/nyla-frontend/static/js/787.ab85aa6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf093b5.css",
+    "static/js/main.d4866cf4.js"
+  ]
+}
